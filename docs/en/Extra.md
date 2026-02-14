@@ -182,4 +182,4 @@ All springs have the same spring constant $k$. In the harmonic approximation, fi
 
 ---
 
-This the list of ptoblems for people who want to go beyond the standard curriculum. These problems are not required for the exam, but they can be a good exercise for those who want to deepen their understanding of the material or explore related topics.
+This the list of problems for people who want to go beyond the standard curriculum. These problems are not required for the exam, but they can be a good exercise for those who want to deepen their understanding of the material or explore related topics.
